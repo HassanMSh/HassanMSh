@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Shamseddine</h1>
 <h3 align="center">A passionate Computer Science student from Lebanon.</h3>
 
-- 🔭 I’m currently working on [SMS Spam Filter](Under Development)
+- 🔭 Check out my latest project [SMS Spam Filter](https://github.com/HassanMSh/SMS-SPAM-FILTER)
 
-- 🌱 I’m currently learning **Python, Machine Learning, and on the road to become a future DevOps.**
+- 🌱 On the road to become a future DevOps.**
 
 - 📫 How to reach me **hassan.m.shamseddine@gmail.com**
 
