@@ -3,7 +3,7 @@
 
 - 🔭 Check out my latest project [SMS Spam Filter](https://github.com/HassanMSh/SMS-SPAM-FILTER)
 
-- 🌱 On the road to become a future DevOps.**
+- 🌱 On the road to become a future DevOps.
 
 - 📫 How to reach me **hassan.m.shamseddine@gmail.com**
 
