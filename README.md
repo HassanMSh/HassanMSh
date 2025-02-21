@@ -7,7 +7,7 @@
 
 - 📝 I write articles on [https://medium.com/@hassan.m.shamseddine](https://medium.com/@hassan.m.shamseddine)
 
-- 💬 Ask me about **SDLC, release strategy, and CI/CD pipelines.**
+- 💬 Ask me about **K8s, SDLC, release strategy, and CI/CD pipelines.**
 
 - 📫 How to reach me **hassan.m.shamseddine@gmail.com**
 
